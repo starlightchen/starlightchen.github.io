@@ -20,7 +20,7 @@ title: StarlightC                      # the main title
 tagline: 不积跬步，无以至千里   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  StarlightC的个人blog，记录学习的点点滴滴。
+  StarlightC的个人blog。
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://blog.starlightc-cn.com'
