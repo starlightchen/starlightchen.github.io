@@ -1,5 +1,5 @@
 ---
-title: Android Studio插件开发概要
+title: Android Studio插件开发记录
 date: 2021-6-18 14:50 +0800
 categories: [Android Studio]
 tags: [Intellij Idea, Android Studio,插件]
