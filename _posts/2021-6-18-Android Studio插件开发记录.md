@@ -4,7 +4,7 @@ date: 2021-6-18 14:50 +0800
 categories: [Android Studio]
 tags: [Intellij Idea, Android Studio,插件]
 ---
-本文中进行的插件开发基于 **IntelliJ IDEA CE** (Build版本：202.7660.3 ，对应Android Studio 4.2.1）<br/>
+基于 **IntelliJ IDEA CE** (Build版本：202.7660.3 ，对应Android Studio 4.2.1）<br/>
 
 
 {% raw %}
